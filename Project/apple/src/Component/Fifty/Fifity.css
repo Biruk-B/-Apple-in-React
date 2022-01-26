@@ -1,0 +1,22 @@
+.fifith-hightlifht-section .left-side-section {
+    background-image: url(../../images/home/apple-tv-background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 580px;
+    width: 45.5%;
+    margin: 1% 0.5% 0 1%;
+  }
+  .fifith-hightlifht-section .right-side-setion {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 1% 0% 0.5% 1%;
+  }
+  .description-wrapper {
+    font-size: 20px;
+    font-weight: 200;
+  }
+  .left-side-section {
+    text-align: center;
+  }

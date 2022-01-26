@@ -1,0 +1,224 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+.header-wrapper {
+  background-color: black;
+  color: white;
+  margin: auto;
+}
+.header-wrapper ul {
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+}
+.header-wrapper ul li {
+  list-style: none;
+}
+.header-wrapper ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+.header-wrapper ul li {
+  padding: 10px 0 8px;
+  height: 44px;
+  opacity: 0.8;
+}
+.header-wrapper ul li a:hover {
+  opacity: 2;
+  color: white;
+}
+.logo-link,
+.search-link,
+.cart-link {
+  width: 18px;
+}
+
+/*Footer*/
+.footer-wrapper {
+  background-color: #f5f5f7;
+  color: #515154;
+}
+.upper-text-wrapper {
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #d2d2d7;
+}
+.upper-text-wrapper a {
+  text-decoration: none;
+  color: black;
+}
+.upper-text-wrapper a:hover {
+  text-decoration: underline;
+}
+.footer-link-wrapper {
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  font-size: 15px;
+}
+.footer-link-wrapper ul {
+  list-style: none;
+}
+.footer-link-wrapper ul li a {
+  text-decoration: none;
+  color: #515154;
+}
+.footer-link-wrapper ul li {
+  padding: 2px 0;
+}
+.footer-link-wrapper ul li a:hover {
+  text-decoration: underline;
+}
+.My-apple {
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #d2d2d7;
+}
+.copyright-wrapper {
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+}
+.footer-link-item ul li {
+  display: inline-block;
+  justify-content: space-between;
+  border-right: 1px solid #515154;
+  padding-right: 8px;
+}
+.footer-link-item ul li a {
+  text-decoration: none;
+  color: #515154;
+}
+.footer-link-item ul li a:hover {
+  text-decoration: underline;
+}
+.footer-country {
+  display: inline-block;
+}
+.flag-country {
+  display: inline-block;
+}
+.country-name {
+  display: inline-block;
+}
+.footer-link-wrapper h3 {
+  font-size: 14px;
+}
+/*Main Section*/
+.main-hightlight-setion {
+  background-color: white;
+  text-align: center;
+}
+.link-wrapper ul li {
+  list-style: none;
+  display: inline-block;
+  padding-right: 10px;
+}
+.model {
+  font-size: 20px;
+  font-weight: 400;
+}
+.title {
+  font-size: 54px;
+  font-weight: 700;
+}
+.description {
+  font-size: 2.5em;
+  font-weight: 400;
+}
+.link-wrapper ul li a {
+  font-size: 25px;
+  text-decoration: none;
+}
+/*second section*/
+.second-hightlight-section {
+  background-image: url(../images/home/iphone11-pro-bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  height: 580px;
+}
+.second {
+  padding-top: 30px;
+}
+/*thired section*/
+.thired-hightlight-section {
+  background-image: url(../images/home/iphone11-bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  height: 580px;
+}
+/*fourth section*/
+.fourth-hightlight-section .left-side-section {
+  background-image: url(../images/home/watch-series-5.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 580px;
+  width: 45.5%;
+  text-align: center;
+  margin: 1% 0.5% 0 1%;
+  padding-top: 20px;
+}
+.fourth-hightlight-section .right-side-section {
+  background-image: url(../images/home/apple-card.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 580px;
+  width: 50%;
+  text-align: center;
+  margin: 1% 0.5% 0 1%;
+  padding-top: 20px;
+}
+.top-logo {
+  text-align: center;
+  padding-top: 8%;
+}
+.logo {
+  padding-top: 35%;
+}
+
+.fifith-hightlifht-section .left-side-section {
+  background-image: url(../images/home/apple-tv-background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 580px;
+  width: 45.5%;
+  margin: 1% 0.5% 0 1%;
+}
+.fifith-hightlifht-section .right-side-setion {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 1% 0% 0.5% 1%;
+}
+.description-wrapper {
+  font-size: 20px;
+  font-weight: 200;
+}
+.left-side-section {
+  text-align: center;
+}
+.sixth-hightlight-section .left-side-section {
+  background-color: #f5f5f7;
+  margin: 1% 0.5% 0 1%;
+  width: 45.5%;
+}
+.sixth-hightlight-section .right-side-section {
+  background-color: #f5f5f7;
+  margin: 1% 0% 0% 1%;
+  width: 50%;
+}

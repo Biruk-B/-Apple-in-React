@@ -1,0 +1,30 @@
+.fourth-hightlight-section .left-side-section {
+    background-image: url(../../images/home/watch-series-5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 580px;
+    width: 45.5%;
+    text-align: center;
+    margin: 1% 0.5% 0 1%;
+    padding-top: 20px;
+  }
+  .fourth-hightlight-section .right-side-section {
+    background-image: url(../../images/home/apple-card.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 580px;
+    width: 50%;
+    text-align: center;
+    margin: 1% 0.5% 0 1%;
+    padding-top: 20px;
+  }
+  .top-logo {
+    text-align: center;
+    padding-top: 8%;
+  }
+  .logo {
+    padding-top: 35%;
+  }
+  

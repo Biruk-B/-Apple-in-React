@@ -1,0 +1,70 @@
+.footer-wrapper {
+    background-color: #f5f5f7;
+    color: #515154;
+  }
+  .upper-text-wrapper {
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #d2d2d7;
+  }
+  .upper-text-wrapper a {
+    text-decoration: none;
+    color: black;
+  }
+  .upper-text-wrapper a:hover {
+    text-decoration: underline;
+  }
+  .footer-link-wrapper {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    font-size: 15px;
+  }
+  .footer-link-wrapper ul {
+    list-style: none;
+  }
+  .footer-link-wrapper ul li a {
+    text-decoration: none;
+    color: #515154;
+  }
+  .footer-link-wrapper ul li {
+    padding: 2px 0;
+  }
+  .footer-link-wrapper ul li a:hover {
+    text-decoration: underline;
+  }
+  .My-apple {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #d2d2d7;
+  }
+  .copyright-wrapper {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+  }
+  .footer-link-item ul li {
+    display: inline-block;
+    justify-content: space-between;
+    border-right: 1px solid #515154;
+    padding-right: 8px;
+  }
+  .footer-link-item ul li a {
+    text-decoration: none;
+    color: #515154;
+  }
+  .footer-link-item ul li a:hover {
+    text-decoration: underline;
+  }
+  .footer-country {
+    display: inline-block;
+  }
+  .flag-country {
+    display: inline-block;
+  }
+  .country-name {
+    display: inline-block;
+  }
+  .footer-link-wrapper h3 {
+    font-size: 14px;
+  }
